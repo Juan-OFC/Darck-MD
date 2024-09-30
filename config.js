@@ -22,7 +22,7 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Ai Hoshino",\n     "author":"Jostin-444⁩",\n   "status_bot": "active"\n }\n}'
+global.author = '{\n "bot": {\n   "name": "Rimuru Tempest",\n     "author":"Jostin-444⁩",\n   "status_bot": "active"\n }\n}'
 global.wait = '🦥 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
 global.botname = '✯ Rimuru Tempest - MD ✰'
 global.textbot = `Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰`
