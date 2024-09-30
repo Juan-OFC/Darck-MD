@@ -14,13 +14,13 @@ let require = createRequire(__dirname)
 let { say } = cfonts
 let rl = createInterface(process.stdin, process.stdout)
 
-say('Rimuru Tempest', {
+say('Darck_MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
 
-say(`By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰`, {
+say(`By ム Juan codex`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
