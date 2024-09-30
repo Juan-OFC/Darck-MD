@@ -1,4 +1,4 @@
-<h1 align="center">‧ 【 ✯ Rimuru Tempest - MD ✰ 】 ‧
+<h1 align="center">‧ 【 ✯ Darck - MD ✰ 】 ‧
 </p>
 <p>
         <img src= "https://telegra.ph/file/89fa6a3c8e9cedda6f5ca.jpg">
@@ -7,7 +7,7 @@
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
-        <a href="https://github.com/StarlightsTeam"><img title="Author"    src="https://img.shields.io/badge/Author-おDaniel-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/StarlightsTeam"><img title="Author"    src="https://img.shields.io/badge/Author-Juan codex-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/StarlightsTeamollowers"><img title="Followers" src="https://img.shields.io/github/followers/StarlightsTeam?color=blue&style=flat-square"></a>
@@ -84,4 +84,4 @@
 
 <a href="https://github.com/AikerDev"><img src="https://github.com/AikerDev.png" width="300" height="300" alt="おDaniel"/></a>
 
-`© Ai Hoshino - MD / Starlights Team _ By おDaniel`
+`© Darck - MD / FOX TEAM _ By ム Juan codex`
