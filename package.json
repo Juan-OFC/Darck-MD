@@ -1,5 +1,5 @@
 {
-	"name": "Rimuru Tempest",
+	"name": "Darck_MD",
 	"version": "6.0.0",
 	"description": "Simple WhatsApp Bot Multi Device",
 	"main": "starlights.js",
@@ -27,14 +27,14 @@
 	],
 	"homepage": "https://github.com/StarlightsTeam/Ai-Hoshino",
 	"author": {
-		"name": "Jostin-444"
+		"name": "Juan codex"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/StarlightsTeam/Ai-Hoshino.git"
+		"url": ""
 	},
 	"bugs": {
-		"url": "https://github.com/StarlightsTeam/Ai-Hoshino/issues"
+		"url": ""
 	},
 	"license": "GPL-3.0-or-later",
 	"dependencies": {
@@ -49,7 +49,7 @@
 		"api-dylux": "*",
 		"cfonts": "^3.2.0",
 		"chalk": "^5.3.0",
-		"cheerio": "github:AikerDev/cheeiro",
+		"cheerio": "",
 		"acrcloud": "*",
 		"emoji-api": "*",
 		"file-type": "*",
@@ -76,7 +76,7 @@
 		"speedtest-net": "^2.2.0",
 		"yargs": "^17.7.2",
 		"yt-search": "^2.10.4",
-		"ytdl-core": "github:HanSamu-27/ytdl-core#main"
+		"ytdl-core": ""
 	},
 	"optionalDependencies": {
 		"@vitalets/google-translate-api": "^9.2.0"
