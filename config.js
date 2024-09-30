@@ -8,9 +8,8 @@ import axios from 'axios'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.owner = [
-  ['50242073893', 'Jostin-444', true],
-  ['573105914956', 'juan codex', true],
+global.owner = [', false],
+  ['573105914956', 'juan codex true],
 
 ]
 
@@ -22,12 +21,12 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "Rimuru Tempest",\n     "author":"Jostin-444⁩",\n   "status_bot": "active"\n }\n}'
-global.wait = '🦥 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
-global.botname = '✯ Rimuru Tempest - MD ✰'
-global.textbot = `Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰`
+global.author = '{\n "bot": {\n   "name": "Darck_ MD",\n     "author":"Juan codex⁩",\n   "status_bot": "active"\n }\n}'
+global.wait = '🦥 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛo... ฅ^•ﻌ•^ฅ*'
+global.botname = '✯ Darck - MD ✰'
+global.textbot = `Powered By ムJuan codex`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '【 ✯  ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰ ✰ 】'
+global.namechannel = '【 ✯  ム Juan codex ✰ 】'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -37,7 +36,7 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = ''
-global.canal = 'https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V'
+global.canal = 'https://whatsapp.com/channel/0029VainA627IUYSLyySSN2p'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -53,7 +52,7 @@ global.axios = axios
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '2' // máxima advertencias
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
