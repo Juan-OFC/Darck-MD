@@ -61,9 +61,8 @@
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
 
 
-- Si quieres probar la Bot antes de instalar
+- Si quieres probar la Bot antes de instalar/ no disponible 
 
-* <a href="https://chat.whatsapp.com/IozDcUnkCoVDBQBDNYF6GB"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
